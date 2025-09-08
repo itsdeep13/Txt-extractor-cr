@@ -3,7 +3,7 @@ import logging
 import os
 from pyromod import listen
 from pyrogram import Client
-from config import API_ID, API_HASH, BOT_TOKEN
+from .config import API_ID, API_HASH, BOT_TOKEN
 
 # Create sessions directory if it doesn't exist
 if not os.path.exists("sessions"):
