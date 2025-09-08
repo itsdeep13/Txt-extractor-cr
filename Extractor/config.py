@@ -6,9 +6,9 @@ from os import getenv
 # ------------------------------------------------
 API_ID = int(os.environ.get("API_ID", "6363345131"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","6363345131")
+API_HASH = os.environ.get("API_HASH","bc2ea0765ac96bb474891b0243f44390")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6363345131")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8034429795:AAGzFsK8gIuz02AMUAtNsA0AcTYFdk2Kr5Q")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Deepxchbot")
 BOT_TEXT = "TxtExtractor"
